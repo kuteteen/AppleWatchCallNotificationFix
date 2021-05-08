@@ -1,0 +1,9 @@
+Package: com.p2kdev.applewatchcallnotificationfix
+Name: AppleWatchCallNotificationFix
+Depends: mobilesubstrate, firmware (>= 14)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fixes call notification not working on Apple Watch after carplay is connected!
+Maintainer: P2KDev <p2kdev@gmail.com>
+Author: P2KDev <p2kdev@gmail.com>
+Section: Tweaks
